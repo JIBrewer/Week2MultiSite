@@ -1,0 +1,62 @@
+h1 {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.logocolor {
+    background-color: red;
+    padding-bottom: 5cm;
+    font-size: 25px;
+}
+
+.search {
+    
+    width: 20px;
+    background-color: red;
+    
+}
+
+#searchbox {
+    width: 400px;
+}
+
+.carttext {
+    font-size: 10px;
+    float: right;
+}
+
+.cart {
+    height: 20px;
+    width: 15px;
+    float: right;
+    background-color: white;
+}
+
+.navBar {
+    background-color: black;
+    color: white;
+    height: 50px;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    
+}
+
+.navBar a {
+    color: #f2f2f2;
+    padding: 25px;
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: azure;
+    width: 1490px;
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
